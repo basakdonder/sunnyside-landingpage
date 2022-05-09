@@ -1,0 +1,31 @@
+.footer-container {
+    background-color: var(--dark-moderate-cyan);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+}
+
+.footer-container img {
+    width: 150px;
+}
+
+.footer-container nav ul {
+    list-style: none;
+    display: flex;
+}
+
+.footer-container .nav-link {
+    margin: 0 20px;
+    color: var(--dark-desaturated-cyan);
+}
+
+.footer-container nav {
+    margin: 20px 0;
+}
+
+.icons img {
+    width: 20px;
+    margin: 0 10px;
+}
